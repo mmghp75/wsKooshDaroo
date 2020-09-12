@@ -1,0 +1,5 @@
+سلام
+Data Source=.;Initial Catalog=KooshDaroo;Integrated Security=True
+باید در 
+appsettings.json
+اصلاح شود
